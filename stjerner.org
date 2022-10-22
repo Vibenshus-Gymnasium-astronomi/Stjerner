@@ -54,10 +54,10 @@ En lille videoforsmag.
 
 Linket er: https://youtu.be/jfvMtCHv1q4?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL
 
-** Stjernedannelse 
+* Stjernedannelse 
 Gravitationsenergi
 
-*** Ørnetågen (M16)
+** Ørnetågen (M16)
 #+reveal_html: <div style="font-size: 60%;">
 Pillars of creation
 #+attr_html: :width 600px
@@ -65,7 +65,7 @@ Pillars of creation
 
 Den venstre søjle er ca. 4 ly høj.
 
-*** Oriontågen (M42)
+** Oriontågen (M42)
 #+reveal_html: <div style="font-size: 60%;">
 #+attr_html: :height 500px
 [[file:img/2021-10-25_21-32-16_screenshot.png]]
@@ -73,7 +73,7 @@ Den venstre søjle er ca. 4 ly høj.
 ca 24 ly bred og ca 2000 $M_\odot$
 
 
-*** Sammentrækning af en gassky
+** Sammentrækning af en gassky
 #+reveal_html: <div style="font-size: 60%;">
 
 - Store (som i virkelig store) gasskyer af brint, helium (og meget små mængder af molekyler) trækker sig sammen pga tyngdekraften.
@@ -106,7 +106,7 @@ Linket er: https://youtu.be/Qk0ff_zREMI
 #+attr_html: :height 500px
 [[file:img/2021-10-25_22-25-12_screenshot.png]]
  
-*** Molekyler i gasskyen
+** Molekyler i gasskyen
 #+reveal_html: <div style="font-size: 60%;">
 - Gasskyen trækker sig sammen.
 - De store molekyler støder sammen, optager energi, bliver varme og begynder at vibrere.
@@ -115,7 +115,7 @@ Linket er: https://youtu.be/Qk0ff_zREMI
 - Centrum kan nu blive meget varm, og fusionsprocesser kan nu opstå i kernen.
 - Nu er stjernen født!
 
-*** Hvor kommer energien fra?
+** Hvor kommer energien fra?
 #+reveal_html: <div style="font-size: 60%;">
 Kan forklares med *virialteoremet*.
 
@@ -128,7 +128,7 @@ $$\left\langle E_\text{pot} \right\rangle = - \frac{3}{5}\cdot \frac{G M^2}{R}$$
 
 *Halvdelen af energien går til opvarmning af skyen, mens den anden halvdel forlader skyen som strålingsenergi.*
 
-*** Solens alder pba. gravitation alene
+** Solens alder pba. gravitation alene
 #+reveal_html: <div style="font-size: 60%;">
 Beregn Solens anslåede alder, hvis frigivet potentiel energi alene skal drive energiproduktionen. Brug formlerne
 
@@ -140,7 +140,7 @@ $$t = \frac{E_\text{stråling}}{L_\odot} = \frac{\frac{3}{10}\cdot \frac{G M^2}{
 
 Se en nærmere forklaring i dokumentet om virialteoremet.
 
-*** Opgave 8
+** Opgave 8
 
 #+DOWNLOADED: screenshot @ 2019-11-04 13:08:23
 #+attr_html: :width 700px
@@ -149,14 +149,14 @@ Se en nærmere forklaring i dokumentet om virialteoremet.
 
 Se side 39 i kompendiet om stjerner.
 
-** Hovedseriefasen
+* Hovedseriefasen
 Fusion af brint til helium.
-*** NGC 604
+** NGC 604
 
 #+attr_html: :height 500px
 [[file:img/2021-10-30_18-01-58_screenshot.png]]
 
-*** Fusion af brint til helium
+** Fusion af brint til helium
 #+reveal_html: <div style="font-size: 60%;">
 
 #+begin_export html
@@ -203,13 +203,13 @@ Overblik
 #+attr_latex: :width 10cm
 [[file:img/2019-11-04_12-43-31_screenshot.png]]
 
-*** Opgave - Solens energiproduktion
+** Opgave - Solens energiproduktion
 #+reveal_html: <div style="font-size: 60%;">
 Se dokumentet =Opgave_Solens_energiproduktion.pdf=
 #+attr_html: :width 300px
 [[file:img/2021-11-01_14-54-34_screenshot.png]]
 
-*** Ny hydrostatisk ligevægt
+** Ny hydrostatisk ligevægt
 #+reveal_html: <div style="font-size: 60%;">
 - Gastryk *og strålingstryk* for fusionsprocesserne balancerer tyngdekraften.
 - Meget stabilt.
@@ -219,7 +219,7 @@ Se dokumentet =Opgave_Solens_energiproduktion.pdf=
 #+attr_html: :height 400px
 [[file:img/2021-10-30_18-18-18_screenshot.png]]
 
-*** Solens opbygning
+** Solens opbygning
 #+reveal_html: <div class="column" style="float:left; width: 50%">
 #+attr_html: :width 600px
 [[file:img/2021-11-01_10-21-54_screenshot.png]]
@@ -230,7 +230,7 @@ Se dokumentet =Opgave_Solens_energiproduktion.pdf=
 [[file:img/2021-11-01_10-22-21_screenshot.png]]
 #+reveal_html: </div>
 
-*** Solen svulmer op
+** Solen svulmer op
 #+reveal_html: <div style="font-size: 60%;">
 #+attr_reveal: :frag (appear)
 - Brint omdannes til helium.
@@ -247,7 +247,7 @@ Se dokumentet =Opgave_Solens_energiproduktion.pdf=
 <iframe width="800" height="600" src="https://www.youtube.com/embed/I0Oc54rloE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
 
-*** CNO-cyklussen
+** CNO-cyklussen
 #+reveal_html: <div style="font-size: 60%;">
 #+reveal_html: <div class="column" style="float:left; width: 50%">
 - For større og (dermed) varmere stjerner, findes der andre fusionsprocesser også.
@@ -263,7 +263,7 @@ Se dokumentet =Opgave_Solens_energiproduktion.pdf=
 [[file:img/2021-11-01_10-42-08_screenshot.png]]
 #+reveal_html: </div>
 
-*** Levetid på hovedserien
+** Levetid på hovedserien
 #+reveal_html: <div style="font-size: 60%;">
 Levetiden for en stjerne på hovedserien kan beregnes vha. formlen.
 
@@ -279,7 +279,7 @@ T_{\odot} &= 5 800 \text{ K} \\
 L &= 4 \pi R^2 \cdot \sigma \cdot T^4 
 \end{align*}
 
-*** Opgave om levetider
+** Opgave om levetider
 #+reveal_html: <div style="font-size: 60%;">
 1. Beregn levetiderne på hovedserien for følgende stjerner (Find selv oplysninger):
    - Sirius A
@@ -287,14 +287,14 @@ L &= 4 \pi R^2 \cdot \sigma \cdot T^4
    - 61 Cygni A
 2. Sæt levetiderne for stjernerne i perspektiv ift. Universets og Jordens udviklingen.
 
-** Kæmpestjernefasen
+* Kæmpestjernefasen
 Fusion til tungere grundstoffer
-*** Betelgeuse
+** Betelgeuse
 
 #+attr_html: :height 500px
 [[file:img/2021-11-01_11-39-57_screenshot.png]]
 
-*** Fusion af helium til kulstof og tungere grundstoffer
+** Fusion af helium til kulstof og tungere grundstoffer
 #+reveal_html: <div style="font-size: 60%;">
 - Begyndelsen på enden.
 - Ikke nok brint tilbage.
@@ -304,7 +304,7 @@ Fusion til tungere grundstoffer
 - Fusion af tungere grundstoffer. 
 - Løgstruktur.
   
-*** Triple $\alpha$​-processen
+** Triple $\alpha$​-processen
 #+reveal_html: <div style="font-size: 60%;">
 #+reveal_html: <div class="column" style="float:left; width: 60%">
 \begin{align*}
@@ -324,12 +324,12 @@ Fusion til tungere grundstoffer
 [[file:img/2021-11-01_12-03-02_screenshot.png]]
 #+reveal_html: </div>
 
-*** Løgstruktur for små stjerner (som Solen)
+** Løgstruktur for små stjerner (som Solen)
 
 #+attr_html: :width 500px
 [[file:img/2019-11-04_13-02-41_screenshot.png]]
 
-*** Løgstruktur for store stjerner
+** Løgstruktur for store stjerner
 
 #+attr_html: :width 500px
 [[file:img/2021-01-20_20-18-51_screenshot.png]]
@@ -337,7 +337,7 @@ Fusion til tungere grundstoffer
 #+reveal: split
 Hvorfor stopper det ved jern i kernen?
 
-*** Bindinsenergi pr. nukleon
+** Bindingsenergi pr. nukleon
 
 #+attr_html: :height 400px
 [[file:img/2021-11-01_12-17-52_screenshot.png]]
@@ -351,7 +351,7 @@ Hvorfor stopper det ved jern i kernen?
 
 Se side 39 i kompendiet om stjerner.
 
-** Stjernedød
+* Stjernedød
 Gravitationsenergi og termisk energi.
    
 - Det hele afhænger af stjernens oprindelige størrelse.
